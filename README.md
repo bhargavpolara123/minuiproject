@@ -1,2 +1,2 @@
-# minuiproject
+# miniproject
 Spotify Clone
